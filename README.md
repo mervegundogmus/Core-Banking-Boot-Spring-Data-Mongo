@@ -1,4 +1,4 @@
-# BankingApp
+# BankingApp Project
 
 ## Index Page
 ![github](cm1.png)
