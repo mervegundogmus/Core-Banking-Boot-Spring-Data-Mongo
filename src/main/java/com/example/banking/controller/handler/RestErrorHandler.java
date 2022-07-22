@@ -7,11 +7,6 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 import com.example.banking.dto.ErrorResponse;
 
-/**
- * 
- * @author Binnur Kurt <binnur.kurt@deepcloudlabs.com>
- *
- */
 @RestControllerAdvice
 public class RestErrorHandler {
 
