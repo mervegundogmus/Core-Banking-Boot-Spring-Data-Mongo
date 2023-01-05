@@ -6,7 +6,7 @@ public class TransferRequest {
 	private String toIdentity;
 	private String toIban;
 	private double amount;
-    // No-arg Constructor
+        // No-arg Constructor
 	// Setter/Getter
 	
 	public TransferRequest() {
