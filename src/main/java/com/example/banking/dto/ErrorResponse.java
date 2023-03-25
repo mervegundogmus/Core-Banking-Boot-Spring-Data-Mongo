@@ -1,10 +1,5 @@
 package com.example.banking.dto;
 
-/**
- * 
- * @author Binnur Kurt <binnur.kurt@gmail.com>
- *
- */
 public class ErrorResponse {
 
 	private String status;
